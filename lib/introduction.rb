@@ -5,7 +5,7 @@
 
 
 def introduction(name) do
-  puts ""
+  puts "Hi, my name is #{name}."
 end
 
 
